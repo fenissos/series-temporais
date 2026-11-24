@@ -1,0 +1,37 @@
+particao,classe,exemplos,percentual,atividade
+treino,1,329,8.937788644390112,em pé parado
+treino,2,329,8.937788644390112,sentado
+treino,3,329,8.937788644390112,deitado
+treino,4,329,8.937788644390112,caminhando
+treino,5,324,8.80195599022005,subindo escada
+treino,6,317,8.611790274381962,flexão de tronco
+treino,7,315,8.557457212713937,elevação de braços
+treino,8,317,8.611790274381962,agachamento
+treino,9,329,8.937788644390112,pedalando
+treino,10,329,8.937788644390112,trotando
+treino,11,329,8.937788644390112,correndo
+treino,12,105,2.852485737571312,saltando
+validacao,1,47,9.270216962524655,em pé parado
+validacao,2,47,9.270216962524655,sentado
+validacao,3,47,9.270216962524655,deitado
+validacao,4,47,9.270216962524655,caminhando
+validacao,5,46,9.072978303747535,subindo escada
+validacao,6,32,6.31163708086785,flexão de tronco
+validacao,7,46,9.072978303747535,elevação de braços
+validacao,8,39,7.6923076923076925,agachamento
+validacao,9,47,9.270216962524655,pedalando
+validacao,10,47,9.270216962524655,trotando
+validacao,11,47,9.270216962524655,correndo
+validacao,12,15,2.9585798816568047,saltando
+teste,1,94,9.082125603864734,em pé parado
+teste,2,94,9.082125603864734,sentado
+teste,3,94,9.082125603864734,deitado
+teste,4,94,9.082125603864734,caminhando
+teste,5,94,9.082125603864734,subindo escada
+teste,6,80,7.729468599033816,flexão de tronco
+teste,7,85,8.212560386473431,elevação de braços
+teste,8,88,8.502415458937199,agachamento
+teste,9,94,9.082125603864734,pedalando
+teste,10,94,9.082125603864734,trotando
+teste,11,94,9.082125603864734,correndo
+teste,12,30,2.898550724637681,saltando

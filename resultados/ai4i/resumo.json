@@ -1,0 +1,22 @@
+{
+  "linhas": 10000,
+  "colunas": 14,
+  "preditores": [
+    "Air temperature [K]",
+    "Process temperature [K]",
+    "Rotational speed [rpm]",
+    "Torque [Nm]",
+    "Tool wear [min]",
+    "diferencial_termico_k",
+    "potencia_w",
+    "desgaste_x_torque",
+    "tipo_L",
+    "tipo_M",
+    "tipo_H"
+  ],
+  "linhas_por_particao": {
+    "treino": 7000,
+    "validacao": 1500,
+    "teste": 1500
+  }
+}
